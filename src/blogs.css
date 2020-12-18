@@ -1,0 +1,40 @@
+.blogs
+{   
+    background: linear-gradient(25deg, #fdcd3b 50%, #ffed4b 50%);
+    height:90vh;
+    width: 100vw;
+}
+#span
+{
+    position: absolute;
+    right: 0;
+    margin-right: 20em;
+    margin-top: 15em;
+}
+#head
+{
+    position: absolute;
+    left: 0;
+    margin-top: 5em;
+    margin-left: 200px;
+}
+#hblog
+{
+    position: absolute;
+    left: 0;
+    margin-top: 2em;
+    margin-left: 2em
+}
+#blogcard1
+{
+    height: 60vh;
+    width: 500px;
+}
+
+#br
+{
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+}

@@ -1,0 +1,63 @@
+.aboutus
+{
+background: linear-gradient(25deg, #fdcd3b 50%, #ffed4b 50%);
+height: 100vh;
+width: 100vw;  
+}
+
+.mimg
+{
+    position: absolute;
+    right: 0;
+}
+
+#aboutcard
+{
+    border-radius: 5px;
+    width: 99vw;
+}
+
+#card1
+{
+    background-color: white;
+    height: 30vh;
+    border-radius: 5px;
+}
+
+#card2
+{
+    background-image: url('./images/aboutus/2.png');
+    height: 50vh;
+    color: white;
+}
+
+#card3
+{
+    background-color: white;
+}
+
+#threeone
+{
+    height: 150px;
+    width: 400px
+}
+
+#threetwo
+{
+    height: 150px;
+    width: 400px;
+}
+
+#threethree
+{
+    height: 150px;
+    width: 400px;
+
+}
+
+#card4
+{
+    background-image: url('./images/aboutus/4.png');
+    height: 50vh;
+    color: white;
+}

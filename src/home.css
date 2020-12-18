@@ -1,0 +1,106 @@
+.navbar
+{
+    background-color:white;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+.container-fluid
+{
+    height: auto;
+    width: 99vw;
+}
+.controw
+{
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    height: 115vh;
+    width: 100vw;       
+}   
+#mobilewodo
+{
+    position: absolute;
+    left: 0;
+    width: min-content;
+    height: min-content;
+
+}
+.h1
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 70px;
+    position: absolute;
+    right: 0;
+    margin-top: 150px;
+}
+#h2
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 4px;
+    position: absolute;
+    right: 0;
+    margin-top: 200px;
+}
+#h3
+{
+    color: white;
+    font-size: 50px;
+    margin-right: 65px;
+    position: absolute;
+    right: 0;
+    margin-top: 250px;   
+}
+.btnn
+{
+    border-radius: 25px;
+    font-size: 30px;
+    width: 300px;
+    margin-right: 40px;
+    position: absolute;
+    right: 0;
+    margin-top: 350px;
+}
+#card   
+{
+        border-radius: 10px;
+        border-color: white;
+}   
+#card-img
+{
+    align-items: center;
+    border-radius: 40px;
+    width: max-content;
+    height: max-content;
+}
+
+.cont2
+{
+}
+
+#imgstats
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.imp
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.footrow
+{
+    background-color:#26466D	
+}
+
+.fh6
+{
+    text-align: left;
+}
+.icons
+{
+    font-size: 45px;
+}
